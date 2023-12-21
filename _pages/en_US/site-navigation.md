@@ -53,7 +53,9 @@ sitemap: false
 {% capture notice-5 %}
 **Homebrew**
 + [Creating Wii Game Shortcuts](wiigsc)
-+ [GameCube Backup Manager](gcbackupmanager)
++ [USB Loaders](wii-loaders)
++ [Managing Wii Backups](wii-backups)
++ [Managing GameCube Backups](gc-backups)
 + [How to dump Channels (WADs)](dump-wads)
 + [How to dump GameCube/Wii Games](dump-games)
 + [RSSMii](rssmii)
@@ -62,9 +64,7 @@ sitemap: false
 + [Playing Wii Game Mods](riivolution)
 + [Priiloader Usage](priiloader-usage)
 + [Recommended Homebrew](recommended-homebrew)
-+ [USB Loaders](wii-loaders)
 + [Using SysCheck](syscheck)
-+ [Wii Backup Manager](wiibackupmanager)
 + [Wii Themes Guide](themes)
 {% endcapture %}
 <div class="notice--primary">{{ notice-5 | markdownify }}</div>
