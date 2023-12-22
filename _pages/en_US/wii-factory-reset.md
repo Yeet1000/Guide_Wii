@@ -15,7 +15,7 @@ The instructions detailed in this guide WILL ERASE YOUR WII SYSTEM MEMORY and sh
 + You are unable to revert certain changes to the Wii System Memory such as all cIOS with DARKCORP.
 {: .notice--danger}
 
-If you are trying to [update your Wii to 4.3U](update) with homebrew or update outdated homebrew/IOS, you most likely do not need to follow this guide and can use something like [ModMii](modmii) instead to make sure everything is up-to-date. If you are confused about this process, consider joining the Nintendo Homebrew discord server for support.
+If you are trying to [update your Wii to 4.3U](update) with homebrew or update outdated homebrew/IOS, you most likely do not need to follow this guide. Instead, you can use a tool like the SysCheck Updater Wizard built into [ModMii](modmii#syscheck-updater-wizard). If you are confused about this process, consider joining the Nintendo Homebrew discord server for support.
 {: .notice--warning}
 
 ### Requirements
